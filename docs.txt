@@ -1,0 +1,52 @@
+Lecture # 2: Planing of project ...
+---------------------------------------------
+Ecommerce Project ..
+---------------------
+Questions :
+----------
+	- Kya apk pas logo ha ? ya koi color scheme apny choose ki ha?
+	Ans: Yes..
+	- Apki web application ki pages requirements ..
+	Ans: 
+	    => I need a website where client can buy a product and can sign in for his 
+	       order status and also can edit his order and check order history.
+	    => I also Need an admin panel where me or my staff can check our order, can check customers,
+	       can add inventory and also check analytics...
+	- Functional Requirements kya hain?
+	Ans:
+	   => I need client auth system  and also need admin panel ..
+	- Vendor (Daraz.pk) base web applicatoin chahiya? ya single seller?
+	Ans: Single Seller 
+	- Have you domain and hosting?
+	Ans: Yes, I have domain and hosting .....
+	- Have you any sample in your mind? 
+	Ans: www.xyzstore.com
+------------------------------------------
+Plan of proccess of pages 
+--------------------------
+		- Client Side
+			- Before Login
+				- Home 
+				- About
+				- Contact
+				- Products -> Single Product 
+				- Cart
+				- Login/Register 
+				- Checkout 
+			- After Login
+				- Dashboard
+				- My Orders
+				- Settings
+				- Logout
+		- Admin Side
+			- Login Page  ( Before Login ) ..
+			- Dashboard 
+			- Products ( Create Product , All Product , Product Details)..
+			- Categories ( Create , All Categories CRUD )..
+			- Orders ( Active Orders , Cancle Orders , Complete Orders , Dashboard )..
+			- Analytics ( Yearly Sales , Week Sale , )
+			- Customers ( All Customers , Customer History )..
+			- User Management ( New User  , All User )
+			- Settings
+			- Logout 
+
